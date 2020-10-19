@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+            "pics":"2.jpg",
+            "hashtag":"macskajaj",
+            "like": 12
+        },
+         {
+            "pics":"3.jpg",
+            "hashtag":"macskajaj2",
+            "like": 12
+        },
+        {
+            "pics":"4.jpg",
+            "hashtag":"macskajaj3",
+            "like": 12
+        },
+        {
+            "pics":"5.jpg",
+            "hashtag":"macskajaj4",
+            "like": 12
+        }
+    ]
+}
